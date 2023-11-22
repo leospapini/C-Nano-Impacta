@@ -1,0 +1,14 @@
+E:\Programação\C#\Impacta Nanodegree\PrimeiroPrograma\bin\Debug\net8.0\PrimeiroPrograma.exe
+E:\Programação\C#\Impacta Nanodegree\PrimeiroPrograma\bin\Debug\net8.0\PrimeiroPrograma.deps.json
+E:\Programação\C#\Impacta Nanodegree\PrimeiroPrograma\bin\Debug\net8.0\PrimeiroPrograma.runtimeconfig.json
+E:\Programação\C#\Impacta Nanodegree\PrimeiroPrograma\bin\Debug\net8.0\PrimeiroPrograma.dll
+E:\Programação\C#\Impacta Nanodegree\PrimeiroPrograma\bin\Debug\net8.0\PrimeiroPrograma.pdb
+E:\Programação\C#\Impacta Nanodegree\PrimeiroPrograma\obj\Debug\net8.0\PrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\C#\Impacta Nanodegree\PrimeiroPrograma\obj\Debug\net8.0\PrimeiroPrograma.AssemblyInfoInputs.cache
+E:\Programação\C#\Impacta Nanodegree\PrimeiroPrograma\obj\Debug\net8.0\PrimeiroPrograma.AssemblyInfo.cs
+E:\Programação\C#\Impacta Nanodegree\PrimeiroPrograma\obj\Debug\net8.0\PrimeiroPrograma.csproj.CoreCompileInputs.cache
+E:\Programação\C#\Impacta Nanodegree\PrimeiroPrograma\obj\Debug\net8.0\PrimeiroPrograma.dll
+E:\Programação\C#\Impacta Nanodegree\PrimeiroPrograma\obj\Debug\net8.0\refint\PrimeiroPrograma.dll
+E:\Programação\C#\Impacta Nanodegree\PrimeiroPrograma\obj\Debug\net8.0\PrimeiroPrograma.pdb
+E:\Programação\C#\Impacta Nanodegree\PrimeiroPrograma\obj\Debug\net8.0\PrimeiroPrograma.genruntimeconfig.cache
+E:\Programação\C#\Impacta Nanodegree\PrimeiroPrograma\obj\Debug\net8.0\ref\PrimeiroPrograma.dll
