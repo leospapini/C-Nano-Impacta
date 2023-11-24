@@ -1,0 +1,15 @@
+E:\Programação\C#\Impacta Nanodegree\Aula06_Att1\bin\Debug\net8.0\Aula06_Att1.exe
+E:\Programação\C#\Impacta Nanodegree\Aula06_Att1\bin\Debug\net8.0\Aula06_Att1.deps.json
+E:\Programação\C#\Impacta Nanodegree\Aula06_Att1\bin\Debug\net8.0\Aula06_Att1.runtimeconfig.json
+E:\Programação\C#\Impacta Nanodegree\Aula06_Att1\bin\Debug\net8.0\Aula06_Att1.dll
+E:\Programação\C#\Impacta Nanodegree\Aula06_Att1\bin\Debug\net8.0\Aula06_Att1.pdb
+E:\Programação\C#\Impacta Nanodegree\Aula06_Att1\obj\Debug\net8.0\Aula06_Att1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\C#\Impacta Nanodegree\Aula06_Att1\obj\Debug\net8.0\Aula06_Att1.AssemblyInfoInputs.cache
+E:\Programação\C#\Impacta Nanodegree\Aula06_Att1\obj\Debug\net8.0\Aula06_Att1.AssemblyInfo.cs
+E:\Programação\C#\Impacta Nanodegree\Aula06_Att1\obj\Debug\net8.0\Aula06_Att1.csproj.CoreCompileInputs.cache
+E:\Programação\C#\Impacta Nanodegree\Aula06_Att1\obj\Debug\net8.0\Aula06_Att1.sourcelink.json
+E:\Programação\C#\Impacta Nanodegree\Aula06_Att1\obj\Debug\net8.0\Aula06_Att1.dll
+E:\Programação\C#\Impacta Nanodegree\Aula06_Att1\obj\Debug\net8.0\refint\Aula06_Att1.dll
+E:\Programação\C#\Impacta Nanodegree\Aula06_Att1\obj\Debug\net8.0\Aula06_Att1.pdb
+E:\Programação\C#\Impacta Nanodegree\Aula06_Att1\obj\Debug\net8.0\Aula06_Att1.genruntimeconfig.cache
+E:\Programação\C#\Impacta Nanodegree\Aula06_Att1\obj\Debug\net8.0\ref\Aula06_Att1.dll

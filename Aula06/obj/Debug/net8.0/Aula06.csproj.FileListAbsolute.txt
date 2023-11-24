@@ -1,0 +1,15 @@
+E:\Programação\C#\Impacta Nanodegree\Aula06\bin\Debug\net8.0\Aula06.exe
+E:\Programação\C#\Impacta Nanodegree\Aula06\bin\Debug\net8.0\Aula06.deps.json
+E:\Programação\C#\Impacta Nanodegree\Aula06\bin\Debug\net8.0\Aula06.runtimeconfig.json
+E:\Programação\C#\Impacta Nanodegree\Aula06\bin\Debug\net8.0\Aula06.dll
+E:\Programação\C#\Impacta Nanodegree\Aula06\bin\Debug\net8.0\Aula06.pdb
+E:\Programação\C#\Impacta Nanodegree\Aula06\obj\Debug\net8.0\Aula06.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programação\C#\Impacta Nanodegree\Aula06\obj\Debug\net8.0\Aula06.AssemblyInfoInputs.cache
+E:\Programação\C#\Impacta Nanodegree\Aula06\obj\Debug\net8.0\Aula06.AssemblyInfo.cs
+E:\Programação\C#\Impacta Nanodegree\Aula06\obj\Debug\net8.0\Aula06.csproj.CoreCompileInputs.cache
+E:\Programação\C#\Impacta Nanodegree\Aula06\obj\Debug\net8.0\Aula06.sourcelink.json
+E:\Programação\C#\Impacta Nanodegree\Aula06\obj\Debug\net8.0\Aula06.dll
+E:\Programação\C#\Impacta Nanodegree\Aula06\obj\Debug\net8.0\refint\Aula06.dll
+E:\Programação\C#\Impacta Nanodegree\Aula06\obj\Debug\net8.0\Aula06.pdb
+E:\Programação\C#\Impacta Nanodegree\Aula06\obj\Debug\net8.0\Aula06.genruntimeconfig.cache
+E:\Programação\C#\Impacta Nanodegree\Aula06\obj\Debug\net8.0\ref\Aula06.dll

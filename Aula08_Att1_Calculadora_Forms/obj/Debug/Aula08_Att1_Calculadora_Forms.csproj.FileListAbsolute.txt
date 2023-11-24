@@ -1,0 +1,10 @@
+E:\Programação\C#\Impacta Nanodegree\Aula08_Att1_Calculadora_Forms\bin\Debug\Aula08_Att1_Calculadora_Forms.exe.config
+E:\Programação\C#\Impacta Nanodegree\Aula08_Att1_Calculadora_Forms\bin\Debug\Aula08_Att1_Calculadora_Forms.exe
+E:\Programação\C#\Impacta Nanodegree\Aula08_Att1_Calculadora_Forms\bin\Debug\Aula08_Att1_Calculadora_Forms.pdb
+E:\Programação\C#\Impacta Nanodegree\Aula08_Att1_Calculadora_Forms\obj\Debug\Aula08_Att1_Calculadora_Forms.csproj.AssemblyReference.cache
+E:\Programação\C#\Impacta Nanodegree\Aula08_Att1_Calculadora_Forms\obj\Debug\Aula08_Att1_Calculadora_Forms.Form1.resources
+E:\Programação\C#\Impacta Nanodegree\Aula08_Att1_Calculadora_Forms\obj\Debug\Aula08_Att1_Calculadora_Forms.Properties.Resources.resources
+E:\Programação\C#\Impacta Nanodegree\Aula08_Att1_Calculadora_Forms\obj\Debug\Aula08_Att1_Calculadora_Forms.csproj.GenerateResource.cache
+E:\Programação\C#\Impacta Nanodegree\Aula08_Att1_Calculadora_Forms\obj\Debug\Aula08_Att1_Calculadora_Forms.csproj.CoreCompileInputs.cache
+E:\Programação\C#\Impacta Nanodegree\Aula08_Att1_Calculadora_Forms\obj\Debug\Aula08_Att1_Calculadora_Forms.exe
+E:\Programação\C#\Impacta Nanodegree\Aula08_Att1_Calculadora_Forms\obj\Debug\Aula08_Att1_Calculadora_Forms.pdb

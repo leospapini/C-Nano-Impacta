@@ -1,0 +1,10 @@
+E:\Programação\C#\Impacta Nanodegree\Aula08_Win_Forms_NETFrameWork\bin\Debug\Aula08_Win_Forms_NETFrameWork.exe.config
+E:\Programação\C#\Impacta Nanodegree\Aula08_Win_Forms_NETFrameWork\bin\Debug\Aula08_Win_Forms_NETFrameWork.exe
+E:\Programação\C#\Impacta Nanodegree\Aula08_Win_Forms_NETFrameWork\bin\Debug\Aula08_Win_Forms_NETFrameWork.pdb
+E:\Programação\C#\Impacta Nanodegree\Aula08_Win_Forms_NETFrameWork\obj\Debug\Aula08_Win_Forms_NETFrameWork.csproj.AssemblyReference.cache
+E:\Programação\C#\Impacta Nanodegree\Aula08_Win_Forms_NETFrameWork\obj\Debug\Aula08_Win_Forms_NETFrameWork.Form1.resources
+E:\Programação\C#\Impacta Nanodegree\Aula08_Win_Forms_NETFrameWork\obj\Debug\Aula08_Win_Forms_NETFrameWork.Properties.Resources.resources
+E:\Programação\C#\Impacta Nanodegree\Aula08_Win_Forms_NETFrameWork\obj\Debug\Aula08_Win_Forms_NETFrameWork.csproj.GenerateResource.cache
+E:\Programação\C#\Impacta Nanodegree\Aula08_Win_Forms_NETFrameWork\obj\Debug\Aula08_Win_Forms_NETFrameWork.csproj.CoreCompileInputs.cache
+E:\Programação\C#\Impacta Nanodegree\Aula08_Win_Forms_NETFrameWork\obj\Debug\Aula08_Win_Forms_NETFrameWork.exe
+E:\Programação\C#\Impacta Nanodegree\Aula08_Win_Forms_NETFrameWork\obj\Debug\Aula08_Win_Forms_NETFrameWork.pdb
